@@ -1,1 +1,1 @@
-# BaryYur.github.io
+https://baryyur.github.io/diagram/
